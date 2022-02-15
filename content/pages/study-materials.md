@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 57dc5c2f-b72f-7a02-ab9d-7b55504b951f
 ---
@@ -222,7 +224,7 @@ Transistor amplifier configurations ([PDF]({{< baseurl >}}/resources/trans_amp_c
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Transistor bias stability as a function of βF variations ([PDF]({{< baseurl >}}/resources/bias_stability))
+Transistor bias stability as a function of β{{< sub "F" >}} variations ([PDF]({{< baseurl >}}/resources/bias_stability))
 {{< tdclose >}}
 
 {{< trclose >}}

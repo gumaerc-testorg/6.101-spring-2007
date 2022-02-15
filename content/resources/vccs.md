@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Study materials on voltage-controlled current sources.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-101-introductory-analog-electronics-laboratory-spring-2007/806c11099ee0d02ed7c416e815938d57_vccs.pdf
+file: /media/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/806c11099ee0d02ed7c416e815938d57_vccs.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: vccs.pdf
 uid: 806c1109-9ee0-d02e-d7c4-16e815938d57

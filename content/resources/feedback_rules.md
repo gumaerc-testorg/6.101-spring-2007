@@ -2,8 +2,12 @@
 content_type: resource
 description: Study materials on the Golden Rules of Op-Amps, the benefits of feedback,
   and the disadvantages of feedback.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-101-introductory-analog-electronics-laboratory-spring-2007/1023c9b56b4c72cf25aee070d1bf95c3_feedback_rules.pdf
+file: /media/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/1023c9b56b4c72cf25aee070d1bf95c3_feedback_rules.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: feedback_rules.pdf
 uid: 1023c9b5-6b4c-72cf-25ae-e070d1bf95c3

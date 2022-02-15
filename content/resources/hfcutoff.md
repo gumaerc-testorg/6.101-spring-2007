@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Study materials on high-frequency cutoff calculations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-101-introductory-analog-electronics-laboratory-spring-2007/eb98e927135e71c4911f8a99c4e710a1_hfcutoff.pdf
+file: /media/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/eb98e927135e71c4911f8a99c4e710a1_hfcutoff.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: hfcutoff.pdf
 uid: eb98e927-135e-71c4-911f-8a99c4e710a1

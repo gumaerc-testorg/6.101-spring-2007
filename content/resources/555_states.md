@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Study materials on 555 States.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-101-introductory-analog-electronics-laboratory-spring-2007/ee0aac4a4070a016dcac36ff4a9f1b08_555_states.pdf
+file: /media/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/ee0aac4a4070a016dcac36ff4a9f1b08_555_states.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: 555_states.pdf
 uid: ee0aac4a-4070-a016-dcac-36ff4a9f1b08

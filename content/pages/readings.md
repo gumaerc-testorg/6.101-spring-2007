@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: abf9db8e-ab37-78ed-5174-3fb39b45a724
 ---
@@ -582,7 +585,7 @@ A. Phyiscal layout; intercircuit coupling
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-B. Vcc, Vee bypassing
+B. V{{< sub "cc" >}}, V{{< sub "ee" >}} bypassing
 {{< tdclose >}}
 {{< tdopen >}}
 

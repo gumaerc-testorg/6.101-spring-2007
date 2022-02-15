@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c855081c-d301-9751-b067-4839e245c296
 ---
@@ -257,7 +259,7 @@ Course Outline
 
 > A. Physical layout; intercircuit coupling
 > 
-> B. Vcc, Vee bypassing
+> B. V{{< sub "cc" >}}, V{{< sub "ee" >}} bypassing
 > 
 > > a. Capacitors and resistors at very high frequencies
 > 
