@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 57dc5c2f-b72f-7a02-ab9d-7b55504b951f
 resourcetype: Document
 title: regulated_ps.pdf
 uid: d4df550a-de45-3332-7715-0a1980e39140

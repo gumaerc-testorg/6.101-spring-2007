@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 57dc5c2f-b72f-7a02-ab9d-7b55504b951f
 resourcetype: Document
 title: diode_chart.pdf
 uid: 09f92364-6158-d050-a78b-ecf1f8e228b8

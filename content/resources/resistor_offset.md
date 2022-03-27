@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 57dc5c2f-b72f-7a02-ab9d-7b55504b951f
 resourcetype: Document
 title: resistor_offset.pdf
 uid: a71cdb58-833e-6a94-081d-b93b68040ded

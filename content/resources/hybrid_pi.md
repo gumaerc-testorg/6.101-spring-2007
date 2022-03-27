@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 57dc5c2f-b72f-7a02-ab9d-7b55504b951f
 resourcetype: Document
 title: hybrid_pi.pdf
 uid: 1bc47ee7-2718-6691-2a6e-b9d2d1596ff5

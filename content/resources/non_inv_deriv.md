@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 57dc5c2f-b72f-7a02-ab9d-7b55504b951f
 resourcetype: Document
 title: non_inv_deriv.pdf
 uid: 89a8afeb-6f61-f537-a98c-db851553b079

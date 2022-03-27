@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: abf9db8e-ab37-78ed-5174-3fb39b45a724
 resourcetype: Document
 title: resistor_cap.pdf
 uid: c621b582-0055-0d25-830f-237799f346e9

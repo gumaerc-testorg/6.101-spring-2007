@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b677fe41-f4f3-9e47-c7cf-eb080dadfcf3
 resourcetype: Document
 title: kit_warnings.pdf
 uid: d3d01033-ac27-0e01-27b3-38a6fc84f708

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 15d31e62-3087-9717-0075-f27ae72f1ebb
 resourcetype: Document
 title: miscellanea.pdf
 uid: ed526849-5236-9c11-b58f-f801ca945442

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: abf9db8e-ab37-78ed-5174-3fb39b45a724
 resourcetype: Document
 title: diode_partial.pdf
 uid: 78af4450-a8aa-1a0a-1929-673b0d99b46d

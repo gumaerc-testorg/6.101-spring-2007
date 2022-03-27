@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: abf9db8e-ab37-78ed-5174-3fb39b45a724
 resourcetype: Document
 title: comp_symbols.pdf
 uid: 12872e24-a0ed-b9f8-a1bb-c5ef79251fd6
