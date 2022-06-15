@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of textbooks for the course and the schedule
+  of readings for the lecture sessions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -18,7 +20,7 @@ Neamen, Donald. _Microelectronic Circuit Analysis and Design_. 3rd ed. New York,
 
 Cathey, Jimmie J. _Schaum's Outlines Electronic Devices and Circuits_. 2nd ed. New York, NY: McGraw-Hill, 2002. ISBN: 9780071362702.
 
-Further reading on a wide variety of analog electronics topics is suggested in this list of references, compiled by the course staff. ([PDF]({{< baseurl >}}/resources/references))
+Further reading on a wide variety of analog electronics topics is suggested in this list of references, compiled by the course staff. ({{% resource_link dd099d6c-fbe0-92d9-5337-553d84f9d6f9 "PDF" %}})
 
 Readings by Session
 -------------------
@@ -51,7 +53,7 @@ A. Resistors and capacitors standard values
 
 Neamen pp. 1331-1333
 
-Handout ([PDF]({{< baseurl >}}/resources/resistor_cap))
+Handout ({{% resource_link c621b582-0055-0d25-830f-237799f346e9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -62,7 +64,7 @@ Handout ([PDF]({{< baseurl >}}/resources/resistor_cap))
 B. Component symbols
 {{< tdclose >}}
 {{< tdopen >}}
-Handout ([PDF]({{< baseurl >}}/resources/comp_symbols))
+Handout ({{% resource_link 12872e24-a0ed-b9f8-a1bb-c5ef79251fd6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +126,7 @@ _AC_: Neamen 1.4 all
 
 _Other diode types_: Neamen 1.5.1 to 1.5.4
 
-Handout ([PDF]({{< baseurl >}}/resources/diode_partial))
+Handout ({{% resource_link 78af4450-a8aa-1a0a-1929-673b0d99b46d "PDF" %}})
 
 
 {{< tdclose >}}

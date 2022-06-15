@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on laboratory assignments, laboratory
+  guidelines, and lab kits.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -22,7 +24,7 @@ In any event, your submissions must be **neat** and **clearly organized**. You w
 
 The subjects covered by the six labs are presented below:
 
-Laboratory guidelines ([PDF]({{< baseurl >}}/resources/lab_guidelines))
+Laboratory guidelines ({{% resource_link b3add1ad-d3a2-15c3-eddf-1fdf12c7a012 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -52,7 +54,7 @@ RF transmission and reception; Q and bandwidth of tuned circuits; AM (diode) det
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab1))
+({{% resource_link fd7e4c4f-bc83-426d-65af-a0e696f9a2c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ Please also see Kruger, Anton. "[Reverse Recovery Time](http://www.maximintegrat
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lab2))
+({{% resource_link 6c6e42ff-d430-d056-7189-4d06dcbccdcb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -90,7 +92,7 @@ DC biasing considerations in bipolar and FET amplifiers; "Wind your own inductor
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab3))
+({{% resource_link da60541f-cfb0-3600-c243-bfb7d46987c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +108,7 @@ Operational amplifiers: inverting configuration, output offset, gain, bandwidth,
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab4))
+({{% resource_link 3c91c7e0-ab8c-9eb1-061f-d533933c56a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +124,7 @@ Op-amp and discretes power amp with improved push-pull output stages; two-transi
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab5))
+({{% resource_link 22d79656-82d5-f260-a7b7-a7f076cda653 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +140,7 @@ Series-pass DC voltage regulator; low-battery indicator; three-input op-amp mixe
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lab6))
+({{% resource_link 708a7d81-23b5-4098-92c8-69ddc00c2961 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,4 +158,4 @@ In addition, you will be expected to read the Electrical Safety Rules that we wi
 
 Your account will be charged if your lab kit is not returned by the due date at the end of the semester. A late fee of $25.00 will be retained when your kit is finally returned. Your account will also be charged directly for books borrowed and not returned.
 
-Lab Kit Warnings ([PDF]({{< baseurl >}}/resources/kit_warnings))
+Lab Kit Warnings ({{% resource_link d3d01033-ac27-0e01-27b3-38a6fc84f708 "PDF" %}})

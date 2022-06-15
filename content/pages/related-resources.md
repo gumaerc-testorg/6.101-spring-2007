@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to IC manufacturer web sites and part sources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -16,7 +17,7 @@ IC Manufacturer Web sites
 *   [Freescale Semiconductor](http://www.freescale.com/)
 *   [ON Semiconductor](http://www.onsemi.com/) (formerly Motorola discretes)
 *   [National Semiconductor](http://www.national.com/)
-*   National Semiconductor Power Supply Application Note (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://datasheet.octopart.com/LM555CN-National-Semiconductor-datasheet-5348896.pdf))
+*   National Semiconductor Power Supply Application Note ([PDF](http://datasheet.octopart.com/LM555CN-National-Semiconductor-datasheet-5348896.pdf))
 *   [NXP Semiconductors](http://www.nxp.com/)
 *   [Texas Instruments](https://www.ti.com/)
 

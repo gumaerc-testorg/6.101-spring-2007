@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines for completing the design project for the course.
-file: /media/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/ed52684952369c11b58ff801ca945442_miscellanea.pdf
+file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/ed52684952369c11b58ff801ca945442_miscellanea.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: miscellanea.pdf
 uid: ed526849-5236-9c11-b58f-f801ca945442
 ---
+Guidelines for completing the design project for the course.
+
