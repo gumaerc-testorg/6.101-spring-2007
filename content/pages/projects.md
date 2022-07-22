@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the design project, the final presentation
+  and written report, and an example of a student project video.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 15d31e62-3087-9717-0075-f27ae72f1ebb
 ---
@@ -40,7 +45,7 @@ In addition, students will be required to make an oral presentation to the class
 
 Someone from the writing program will address the class on how to write your paper, and the 6.101 staff will also give you information later in the term on what we require of your paper.
 
-Project Miscellanea ([PDF]({{< baseurl >}}/resources/miscellanea))
+Project Miscellanea ({{% resource_link ed526849-5236-9c11-b58f-f801ca945442 "PDF" %}})
 
 Student Project Video
 ---------------------
