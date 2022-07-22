@@ -7,6 +7,7 @@ file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/708a
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lab6.pdf
 uid: 708a7d81-23b5-4098-92c8-69ddc00c2961
 ---
 Laboratory assignment on series-pass DC voltage regulator, low-battery indicator, and three-input op-amp mixer and gain control stages for Lab #5 power amp.
-

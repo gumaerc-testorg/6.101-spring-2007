@@ -5,6 +5,7 @@ file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/d3d0
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kit_warnings.pdf
 uid: d3d01033-ac27-0e01-27b3-38a6fc84f708
 ---
 Guidelines on the safe use of 6.101 laboratory kits.
-

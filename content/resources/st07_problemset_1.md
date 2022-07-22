@@ -5,6 +5,7 @@ file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/a5e5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: st07_problemset_1.pdf
 uid: a5e51699-06b3-6c97-a894-fcfb2de575df
 ---
 This resource contains problems on the diode current, and circuit voltage.
-

@@ -5,6 +5,7 @@ file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/fcdc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: st07_problemset2.pdf
 uid: fcdc535f-e1be-b211-8a32-cda5e581f2a8
 ---
 Problem set.
-

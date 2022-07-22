@@ -5,6 +5,7 @@ file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/ed52
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: miscellanea.pdf
 uid: ed526849-5236-9c11-b58f-f801ca945442
 ---
 Guidelines for completing the design project for the course.
-

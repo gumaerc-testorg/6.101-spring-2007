@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_trans_radio.jpg
 uid: 74375595-6eb5-4565-1c0c-e087b75cab21
 ---
 The inside of an AWA transistor radio. (Image courtesy of Hil.)
-

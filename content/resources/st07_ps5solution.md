@@ -5,6 +5,7 @@ file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/b242
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: st07_ps5solution.pdf
 uid: b242fdce-fe37-89f2-445c-34ab16c1626f
 ---
 Problem set solutions.
-

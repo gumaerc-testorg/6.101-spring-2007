@@ -4,6 +4,7 @@ description: Study materials on low-pass filter basics.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/974637ab09f4d067eecbf603434c49b0_lpass_filter.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: lpass_filter.pdf
 uid: 974637ab-09f4-d067-eecb-f603434c49b0
 ---
 Study materials on low-pass filter basics.
-
