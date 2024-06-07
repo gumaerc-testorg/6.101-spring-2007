@@ -2,6 +2,7 @@
 content_type: resource
 description: Study materials on regulated DC power supplies.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/d4df550ade45333277150a1980e39140_regulated_ps.pdf
+file_size: 78275
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

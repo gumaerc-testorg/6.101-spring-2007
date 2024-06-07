@@ -4,6 +4,7 @@ description: Laboratory assignment on DC biasing considerations in bipolar and F
   amplifiers, "Wind your own inductor", how capacitors affect low frequency response,
   and using an FET as an analog switch.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/da60541fcfb03600c243bfb7d46987c8_lab3.pdf
+file_size: 330639
 file_type: application/pdf
 learning_resource_types:
 - Labs
