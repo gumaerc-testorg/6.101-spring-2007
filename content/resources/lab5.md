@@ -4,6 +4,7 @@ description: Laboratory assignment on op-amp and discrete power amp with improve
   push-pull output stages, two-transistor differential amplifier, bipolar and FET
   current sources, and 555 sawtooth generator and VCO.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/22d7965682d5f260a7b7a7f076cda653_lab5.pdf
+file_size: 194604
 file_type: application/pdf
 learning_resource_types:
 - Labs

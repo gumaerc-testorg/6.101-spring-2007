@@ -2,6 +2,7 @@
 content_type: resource
 description: Study materials on power supply ripple voltage calculation.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/4df47e8d494605d5b27d27c2b1cb6953_ripple_volts.pdf
+file_size: 23199
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

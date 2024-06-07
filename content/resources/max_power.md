@@ -2,6 +2,7 @@
 content_type: resource
 description: Study materials on maximum power transfer in a circuit.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/7faf76f06ceb6721c2071a3e7ff9776e_max_power.pdf
+file_size: 28482
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading handout on resistors and capacitors standard values.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/c621b58200550d25830f237799f346e9_resistor_cap.pdf
+file_size: 289915
 file_type: application/pdf
 learning_resource_types:
 - Readings
