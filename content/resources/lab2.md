@@ -4,6 +4,7 @@ description: Laboratory assignment on a log amplifier, rectifier diodes and rect
   rower supplies, Zener diodes, and bipolar and FET characteristics using the Tektronix
   curve tracer.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/6c6e42ffd430d05671894d06dcbccdcb_lab2.pdf
+file_size: 241287
 file_type: application/pdf
 learning_resource_types:
 - Labs

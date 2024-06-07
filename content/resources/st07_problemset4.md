@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/44566148fec4de8416a0662ecb200cb0_st07_problemset4.pdf
+file_size: 13151
 file_type: application/pdf
 learning_resource_types:
 - Assignments

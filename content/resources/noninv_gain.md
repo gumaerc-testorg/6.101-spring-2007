@@ -3,6 +3,7 @@ content_type: resource
 description: This file is a resource which contains information about Non-Inverting
   Amplifier Gain Analysis using Finite Open Loop Gain examples.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/6646003a1935d8c9dd9a89acbc4d8536_noninv_gain.pdf
+file_size: 29358
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines on writing reports for laboratory projects.
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/b3add1add3a215c3eddf1fdf12c7a012_lab_guidelines.pdf
+file_size: 21727
 file_type: application/pdf
 learning_resource_types:
 - Labs

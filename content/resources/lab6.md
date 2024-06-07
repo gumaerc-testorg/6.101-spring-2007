@@ -4,6 +4,7 @@ description: 'Laboratory assignment on series-pass DC voltage regulator, low-bat
   indicator, and three-input op-amp mixer and gain control stages for Lab #5 power
   amp.'
 file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/708a7d8123b5409892c869ddc00c2961_lab6.pdf
+file_size: 95549
 file_type: application/pdf
 learning_resource_types:
 - Labs
