@@ -2,7 +2,7 @@
 content_type: resource
 description: Laboratory assignment on RF transmission and reception, Q and bandwidth
   of tuned circuits, and AM (diode) detection.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/fd7e4c4fbc83426d65afa0e696f9a2c7_lab1.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/fd7e4c4fbc83426d65afa0e696f9a2c7_lab1.pdf
 file_size: 287747
 file_type: application/pdf
 learning_resource_types:

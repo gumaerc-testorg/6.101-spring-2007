@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study materials containing a chart of different types of diodes.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/09f923646158d050a78becf1f8e228b8_diode_chart.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/09f923646158d050a78becf1f8e228b8_diode_chart.pdf
 file_size: 36191
 file_type: application/pdf
 learning_resource_types: []

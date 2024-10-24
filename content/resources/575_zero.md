@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study materials on adjusting the step-zero on the 575 curve tracer.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/bd59418f08f33f457fd051e811dc2f76_575_zero.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/bd59418f08f33f457fd051e811dc2f76_575_zero.pdf
 file_size: 14960
 file_type: application/pdf
 learning_resource_types: []

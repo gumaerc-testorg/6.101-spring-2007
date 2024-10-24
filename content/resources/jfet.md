@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study materials on JFET amplifier configurations.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/244d019a5c9a4485e9d01bac9651b332_jfet.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/244d019a5c9a4485e9d01bac9651b332_jfet.pdf
 file_size: 84823
 file_type: application/pdf
 learning_resource_types: []

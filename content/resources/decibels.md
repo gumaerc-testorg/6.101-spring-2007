@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study materials on the decibel unit of measurement.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/7c026cdb532daae3f77466005de6ba4e_decibels.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/7c026cdb532daae3f77466005de6ba4e_decibels.pdf
 file_size: 33605
 file_type: application/pdf
 learning_resource_types: []

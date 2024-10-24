@@ -4,7 +4,7 @@ description: Laboratory assignment on operational amplifiers, inverting configur
   output offset, gain, bandwidth, slew rate, saturation, comparing the LM741 and LF356,
   inverting adder, voltage follower, Schmitt trigger, integrator, differentiator,
   precision rectifier, and adding push-pull output stages.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/3c91c7e0ab8c9eb1061fd533933c56a9_lab4.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/3c91c7e0ab8c9eb1061fd533933c56a9_lab4.pdf
 file_size: 73426
 file_type: application/pdf
 learning_resource_types:

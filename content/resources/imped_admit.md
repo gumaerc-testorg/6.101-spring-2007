@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study materials on impedance/admittance notation.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/7ff5ed203b76ef5aa80a589e9f6d7db6_imped_admit.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/7ff5ed203b76ef5aa80a589e9f6d7db6_imped_admit.pdf
 file_size: 30726
 file_type: application/pdf
 learning_resource_types: []
