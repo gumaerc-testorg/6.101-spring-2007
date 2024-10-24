@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study materials on differentiators and integrators.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/ad8bbeb5f38eb50cb0a7bdbb9f358d8f_diff_integrator.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/ad8bbeb5f38eb50cb0a7bdbb9f358d8f_diff_integrator.pdf
 file_size: 140662
 file_type: application/pdf
 learning_resource_types: []

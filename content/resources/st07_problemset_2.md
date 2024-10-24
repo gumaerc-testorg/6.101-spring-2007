@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on the circiut voltage of the transistor.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/a54a7ec8f9fea8795b2e69a12c548154_st07_problemset_2.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/a54a7ec8f9fea8795b2e69a12c548154_st07_problemset_2.pdf
 file_size: 79150
 file_type: application/pdf
 learning_resource_types:

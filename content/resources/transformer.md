@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study materials on transformer derivation.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/89b45ef0e390bd17128ef6891dc74756_transformer.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/89b45ef0e390bd17128ef6891dc74756_transformer.pdf
 file_size: 23981
 file_type: application/pdf
 learning_resource_types: []

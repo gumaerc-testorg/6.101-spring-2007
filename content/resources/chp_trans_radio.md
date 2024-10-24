@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The inside of an AWA transistor radio. (Image courtesy of Hil.)
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/743755956eb545651c0ce087b75cab21_chp_trans_radio.jpg
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/743755956eb545651c0ce087b75cab21_chp_trans_radio.jpg
 file_size: 46882
 file_type: image/jpeg
 image_metadata:

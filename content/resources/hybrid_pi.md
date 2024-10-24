@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study materials with a low frequency hybrid-p equation chart.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/1bc47ee7271866912a6eb9d2d1596ff5_hybrid_pi.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/1bc47ee7271866912a6eb9d2d1596ff5_hybrid_pi.pdf
 file_size: 43386
 file_type: application/pdf
 learning_resource_types: []
