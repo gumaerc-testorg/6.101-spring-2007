@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set solutions.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/bbdfeb20f17dbf102e7112e8d4cd9c73_st07_ps2solution.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/bbdfeb20f17dbf102e7112e8d4cd9c73_st07_ps2solution.pdf
 file_size: 66741
 file_type: application/pdf
 learning_resource_types:

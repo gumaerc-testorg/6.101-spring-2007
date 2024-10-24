@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on the safe use of 6.101 laboratory kits.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/d3d01033ac270e0127b338a6fc84f708_kit_warnings.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/d3d01033ac270e0127b338a6fc84f708_kit_warnings.pdf
 file_size: 22386
 file_type: application/pdf
 learning_resource_types:

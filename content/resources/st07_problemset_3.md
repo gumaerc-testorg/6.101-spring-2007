@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on the voltage gain.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/27fae94e4bf582f55f1cd616734cb1f7_st07_problemset_3.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/27fae94e4bf582f55f1cd616734cb1f7_st07_problemset_3.pdf
 file_size: 57362
 file_type: application/pdf
 learning_resource_types:

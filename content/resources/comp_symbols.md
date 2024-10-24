@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading handout on component symbols.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/12872e24a0edb9f8a1bbc5ef79251fd6_comp_symbols.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/12872e24a0edb9f8a1bbc5ef79251fd6_comp_symbols.pdf
 file_size: 176846
 file_type: application/pdf
 learning_resource_types:

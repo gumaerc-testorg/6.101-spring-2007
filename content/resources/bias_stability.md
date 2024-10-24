@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study materials on transistor bias stability as a function of ?F variations.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/c1f00d7c29bc7d4414741fc3b8c3fd7c_bias_stability.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/c1f00d7c29bc7d4414741fc3b8c3fd7c_bias_stability.pdf
 file_size: 47694
 file_type: application/pdf
 learning_resource_types: []

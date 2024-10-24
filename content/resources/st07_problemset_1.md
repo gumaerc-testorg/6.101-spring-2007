@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on the diode current, and circuit voltage.
-file: /courses/6-101-introductory-analog-electronics-laboratory-spring-2007/a5e5169906b36c97a894fcfb2de575df_st07_problemset_1.pdf
+file: /ol-ocw-studio-app/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/a5e5169906b36c97a894fcfb2de575df_st07_problemset_1.pdf
 file_size: 90470
 file_type: application/pdf
 learning_resource_types:
