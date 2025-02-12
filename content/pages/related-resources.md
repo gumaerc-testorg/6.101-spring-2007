@@ -35,7 +35,7 @@ uid: 2ba49988-f786-abdd-8551-0b89c2baba25
 - [Mouser Electronics](http://in.mouser.com/)
 - [MPJA](http://www.mpja.com/)
 - [Newark](http://www.newark.com/)
-- [NTE Electronics](http://www.nteinc.com/)
+- [NTE Electronics](https://www.masterelectronics.com/en/suppliers/nte-electronics-88/)
 - [Ocean State Electronics](http://www.oselectronics.com/)
 - [Electronix Express Surplus](http://www.rsrelectronics.com/srp-indx.htm)
 - [American Science Surplus](http://www.sciplus.com/)
