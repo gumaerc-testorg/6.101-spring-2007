@@ -3,7 +3,7 @@ content_type: page
 description: This section provides information on laboratory assignments, laboratory
   guidelines, and lab kits.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: b677fe41-f4f3-9e47-c7cf-eb080dadfcf3
