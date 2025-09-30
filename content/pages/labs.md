@@ -67,7 +67,7 @@ RF transmission and reception; Q and bandwidth of tuned circuits; AM (diode) det
 
 Log amplifier; rectifier diodes and rectifier rower supplies; Zener diodes; bipolar and FET characteristics using the Tektronix curve tracer
 
-Please also see Kruger, Anton. "[Reverse Recovery Time](http://www.maximintegrated.com/glossary/definitions.mvp/term/Reverse%20Recovery%20Time/gpk/1015)." June 16, 1999.
+Please also see Kruger, Anton. "{{% resource_link "871b361f-4d76-4dc3-99f1-0b03308fa755" "Reverse Recovery Time" %}}." June 16, 1999.
 
 
 {{< tdclose >}}
